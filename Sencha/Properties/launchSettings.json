@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Sencha": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\SenchaTest\\TargetProj\\TargetProject.csproj\" worker"
+    }
+  }
+}
